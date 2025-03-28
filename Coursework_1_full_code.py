@@ -1,6 +1,3 @@
-# Name: Nazar Levchuk, ID: 001408115
-# Name: Roman Lupuliak, ID: 001427658
-
 # This project was developed by student of the University of Greenwich Nazar Levchuk and Roman Lupuliak.
 # This project is a family tree handling system. When the project is run it shows the list
 # of options and the user can choose one of the options by entering the number from 1 to 13
