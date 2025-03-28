@@ -16,7 +16,7 @@
 <h2>Program walk-through:</h2>
 
 - <b>Full Code </b>
-  - [Full code]()
+  - [Full code](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/Coursework_1_full_code.py)
 
 <p align="center">
 Optimised solution:<br/>
