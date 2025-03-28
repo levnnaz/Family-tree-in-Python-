@@ -16,9 +16,15 @@
 <h2>Program walk-through:</h2>
 
 - <b>Full Code </b>
-  - [Full code](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/Coursework_1_full_code.py)
+  - [Fam-tree full code](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/Coursework_1_full_code.py)
 
-<p align="center">
-Optimised solution:<br/>
-https://github.com/levnnaz/DS-and-Algorithms/blob/main/Optimised%20solution%20(sets)%20.py
+- <b> Code split into separate files and classes</b>
+  - [main]()
+  - [member_class]()
+  - [familytree_class]()
+  - [birthdays_class]()
+  - [calculations_class]()
+  - [imeediate_family_class]()
+  - [familytee_database]()
+  
 
