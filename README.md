@@ -19,12 +19,12 @@
   - [Fam-tree full code](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/Coursework_1_full_code.py)
 
 - <b> Code split into separate files and classes</b>
-  - [main]()
-  - [member_class]()
-  - [familytree_class]()
-  - [birthdays_class]()
-  - [calculations_class]()
-  - [imeediate_family_class]()
-  - [familytee_database]()
+  - [main](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/main.py)
+  - [member_class](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/member_class.py)
+  - [familytree_class](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/familytree_class.py)
+  - [birthdays_class](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/birthdays_class.py)
+  - [calculations_class](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/calculations_class.py)
+  - [imeediate_family_class](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/immediate_family_class.py)
+  - [familytee_database](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/familytree_database.py)
   
 
