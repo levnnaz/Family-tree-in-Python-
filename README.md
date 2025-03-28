@@ -1,7 +1,7 @@
 <h1>Family tree in Python</h1>
 
 
-<h2>Description</h2> This project is Python program which is family-tree handling system.
+<h2>Description</h2> This project is Python program which is family-tree handling system. It was designed in a pair.
 <br />
 
 
