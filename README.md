@@ -7,7 +7,8 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
+- <b>Python
+- PyCharm</b> 
 
 <h2>Environments Used </h2>
 
