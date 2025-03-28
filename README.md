@@ -15,8 +15,8 @@
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Full code: <br/>
+- <b>Full Code </b>
+  - [Full code]()
 
 <p align="center">
 Optimised solution:<br/>
