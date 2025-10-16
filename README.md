@@ -16,6 +16,8 @@ It also includes features for calculating birthdays, average age at death, numbe
 6. [Example Usage](#example-usage)
 7. [Object-Oriented Design Overview](#object-oriented-design-overview)
 8. [Summary](#summary)
+   
+---
 
 ## Project Overview
 
@@ -23,6 +25,8 @@ The Family Tree Handling System is designed to manage and explore family relatio
 Users can retrieve information about parents, children, siblings, cousins, and spouses, as well as calculate important family statistics such as average age at death and average number of children. 
 The system uses Object-Oriented Programming principles to maintain a modular, extensible, and reusable codebase. 
 It also includes a user-friendly console interface where users can select options to view or calculate specific family data.
+
+---
 
 ## Features
 
@@ -41,12 +45,16 @@ The system includes the following features:
 11. Calculate the average age at death in the family tree.
 12. Display the number of children for a selected member.
 13. Calculate the average number of children per person in the family tree.
+    
+---
 
 ## System Requirements
 
 - Python 3.8 or higher
 - No additional libraries are required; the project uses only built-in Python modules.
 - Compatible with Windows, macOS, and Linux.
+
+---
 
 ## Repository Structure
 
@@ -59,6 +67,9 @@ The system includes the following features:
 - `familytree_database.py` – Holds the family tree data and relationships.
 - `Coursework_1_full_code.py` – Full combined code of all classes and features.
 - `README.md` – This file.
+
+---
+
 ## How to Run
 
 1. Clone the repository to your local machine:
@@ -74,7 +85,6 @@ The system includes the following features:
    python main.py
 4. Follow the console prompts to choose an option (1-13) and enter the name of a family member as required.
 
-
 ---
 
 ## Example Usage
@@ -88,6 +98,8 @@ The system includes the following features:
   1. Choose option 7 from the menu.
   2. The program will display all birthdays sorted by day and month.
 
+---
+
 ## Object-Oriented Design Overview
 
 The system uses object-oriented programming with the following key classes:
@@ -97,6 +109,8 @@ The system uses object-oriented programming with the following key classes:
 - `ImmediateFamily`: Inherits from `FamilyTree` and provides methods to get immediate and extended family.
 - `Birthdays`: Inherits from `FamilyTree` and handles birthdays and sorting birthday calendars.
 - `Calculations`: Inherits from `FamilyTree` and calculates average age at death, number of children, and average children per person.
+
+---
 
 ## Summary
 
