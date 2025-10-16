@@ -30,22 +30,22 @@ It also includes a user-friendly console interface where users can select option
 
 ## Features
 
-The system includes the following features:
-
-1. Display parents of a selected family member.
-2. Display children of a selected family member.
-3. Display the spouse(s) of a selected family member.
-4. Display siblings of a selected family member.
-5. Display cousins of a selected family member.
-6. Display birthdays of all members in the family tree.
-7. Display a sorted birthday calendar (ignoring birth year).
-8. Display grandchildren of a selected family member.
-9. Display immediate family (parents, siblings, spouse, children).
-10. Display extended family (living blood relatives including aunts, uncles, and cousins).
-11. Calculate the average age at death in the family tree.
-12. Display the number of children for a selected member.
-13. Calculate the average number of children per person in the family tree.
-    
+| **No.** | **Feature Description** |
+|----------|--------------------------|
+| **1** | Display parents of a selected family member. |
+| **2** | Display children of a selected family member. |
+| **3** | Display the spouse(s) of a selected family member. |
+| **4** | Display siblings of a selected family member. |
+| **5** | Display cousins of a selected family member. |
+| **6** | Display birthdays of all members in the family tree. |
+| **7** | Display a sorted birthday calendar (ignoring birth year). |
+| **8** | Display grandchildren of a selected family member. |
+| **9** | Display immediate family (parents, siblings, spouse, children). |
+| **10** | Display extended family (living blood relatives including aunts, uncles, and cousins). |
+| **11** | Calculate the average age at death in the family tree. |
+| **12** | Display the number of children for a selected member. |
+| **13** | Calculate the average number of children per person in the family tree. |
+   
 ---
 
 ## System Requirements
