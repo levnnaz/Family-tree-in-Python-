@@ -19,9 +19,7 @@ It also includes features for calculating birthdays, average age at death, numbe
 4. [How to Run](#how-to-run)
 5. [Example Usage](#example-usage)
 6. [Object-Oriented Design Overview](#object-oriented-design-overview)
-7. [Contributors](#contributors)
-8. [License](#license)
-9. [Summary](#summary)
+7. [Summary](#summary)
 
 ## Project Summary
 
