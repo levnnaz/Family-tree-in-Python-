@@ -1,4 +1,4 @@
-# This project was developed by student of the University of Greenwich Nazar Levchuk and Roman Lupuliak.
+# This project was developed by student of the University of Greenwich.
 # This project is a family tree handling system. When the project is run it shows the list
 # of options and the user can choose one of the options by entering the number from 1 to 13
 # accordingly to the option user wants to choose. (All the options are the feature from the
