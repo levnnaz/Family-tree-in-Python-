@@ -3,11 +3,6 @@
 This project is a Python-based Family Tree Handling System developed by Nazar Levchuk and Roman Lupuliak at the University of Greenwich. 
 The system allows users to explore a family tree by viewing relationships such as parents, children, siblings, cousins, spouses, and extended family. 
 It also includes features for calculating birthdays, average age at death, number of children, and generating birthday calendars.
-# Family Tree Handling System
-
-This project is a Python-based Family Tree Handling System developed by Nazar Levchuk and Roman Lupuliak at the University of Greenwich. 
-The system allows users to explore a family tree by viewing relationships such as parents, children, siblings, cousins, spouses, and extended family. 
-It also includes features for calculating birthdays, average age at death, number of children, and generating birthday calendars.
 
 ---
 
