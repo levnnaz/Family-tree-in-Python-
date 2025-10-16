@@ -8,15 +8,16 @@ It also includes features for calculating birthdays, average age at death, numbe
 
 ## Table of Contents
 
-1. [Features](#features)
-2. [System Requirements](#system-requirements)
-3. [Repository Structure](#repository-structure)
-4. [How to Run](#how-to-run)
-5. [Example Usage](#example-usage)
-6. [Object-Oriented Design Overview](#object-oriented-design-overview)
-7. [Summary](#summary)
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [System Requirements](#system-requirements)
+4. [Repository Structure](#repository-structure)
+5. [How to Run](#how-to-run)
+6. [Example Usage](#example-usage)
+7. [Object-Oriented Design Overview](#object-oriented-design-overview)
+8. [Summary](#summary)
 
-## Project Summary
+## Project Overview
 
 The Family Tree Handling System is designed to manage and explore family relationships in an organized way. 
 Users can retrieve information about parents, children, siblings, cousins, and spouses, as well as calculate important family statistics such as average age at death and average number of children. 
